@@ -1,0 +1,23 @@
+MISSILE LAUNCHER LIBRARY
+
+
+INTRODUCTION
+
+This is a library for interfacing with various missile launcher gadgets.
+It consists of an attempt at a generic API for missile launching, including
+calibration for devices with only limit switches. The library uses the
+USB HID API of the operating system for hardware access.
+
+
+SUPPORTED DEVICES
+
+Currently only one device is supported:
+
+  * Dream Cheeky USB Missile Launcher
+    Vendor ID : 0x1941
+    Product ID: 0x8021
+	Version   : 1.0
+
+
+Tommie Gannert
+March 2007

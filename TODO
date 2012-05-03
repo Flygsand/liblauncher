@@ -1,0 +1,9 @@
+In no particular order:
+
+ *  A port to Windows HID in MinGW...
+
+ *  There is lots of duplicated code...
+
+ *  A C++-library would not be bad...
+
+ *  Maybe the C library could be threaded too?
